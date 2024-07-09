@@ -1,10 +1,8 @@
-**Start a Server**
+**Start a Server and Client**
 
 
 ![Alt Text](git/Capture.PNG)
 
-
-**Start a Client**
 ![Alt Text](git/client.PNG)
 
 
