@@ -1,1 +1,1 @@
-![Alt Text](git/capture)
+![Alt Text](git/Capture.png)
